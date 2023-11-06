@@ -1,0 +1,34 @@
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    background:linear-gradient(120deg, #4682B4, #F0E68C);
+}
+
+input[type="text"] {
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+}
+
+table {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #222;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #555;
+}
